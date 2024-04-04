@@ -1,0 +1,5 @@
+*.bak
+*.exe
+*.txt
+objects
+bin/env

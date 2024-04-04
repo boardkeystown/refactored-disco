@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\Cpp\\SFML-2.6.0-sources\\SFML-2.6.0\\include",
+                "D:\\Cpp\\json\\include",
+                "C:\\msys64\\mingw64\\include",
+                "D:\\Cpp\\boost_1_83_0_install\\include\\boost-1_83",
+                "D:\\Cpp\\rxcpp_install\\install\\include",
+                "D:\\Cpp\\sol2\\include",
+                "D:\\Cpp\\libs\\nfd-install\\build\\include",
+                "C:\\Program Files\\Python311\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:\\msys64\\mingw64\\bin\\g++.exe",
+            // "compilerPath": "C:\\Program Files\\LLVM\\bin\\clang++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
